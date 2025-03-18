@@ -6,4 +6,4 @@
 
 -home
 -nav
--footer
+-content
